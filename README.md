@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/oneoneha/web%20-%20pipeline/_apis/build/status/bdevope.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/oneoneha/web%20-%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
